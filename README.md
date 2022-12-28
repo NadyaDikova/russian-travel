@@ -19,3 +19,5 @@
 - [Методология БЭМ](https://ru.bem.info/methodology/)
 - [Файловые структуры по методологии БЭМ](https://ru.bem.info/methodology/filestructure/)
 - [Дока](https://doka.guide/ "Дока от Яндекс!")
+
+Ссылка на сайт: https://nadyadikova.github.io/russian-travel/index.html
