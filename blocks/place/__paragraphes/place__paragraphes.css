@@ -1,0 +1,10 @@
+.place__paragraphes {
+  grid-area: paragraphes;
+}
+
+@media (max-width: 700px) {
+  .place__paragraphes {
+    order: 2;
+    padding: 0 16px;
+  }
+}

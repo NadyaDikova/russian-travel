@@ -1,0 +1,10 @@
+.cover__link {
+  text-decoration: none;
+  background-color: rgba(42, 44, 47, 0.3);
+  display: block;
+  height: 100%;
+}
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+  transition-duration: 1s;
+}
