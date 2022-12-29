@@ -2,9 +2,33 @@
   text-decoration: none;
   background-color: rgba(42, 44, 47, 0.3);
   display: block;
-  height: 100%;
+  min-height: 740px;
 }
 .cover__link:hover {
   background-color: rgba(42, 44, 47, 0.8);
   transition-duration: 1s;
+}
+
+@media (max-width: 1024px) {
+  .cover__link {
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 768px) {
+  .cover__link {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 520px) {
+  .cover__link {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 320px) {
+  .cover__link {
+    min-height: 200px;
+  }
 }

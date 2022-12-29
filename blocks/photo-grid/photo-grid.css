@@ -13,7 +13,6 @@
   .photo-grid {
     grid-template-columns: repeat(auto-fit, 300px);
     grid-template-rows: repeat(auto-fit, 225px);
-    gap: 14px;
   }
 }
 
@@ -22,7 +21,6 @@
     grid-template-columns: repeat(auto-fit, 352px);
     grid-template-rows: repeat(auto-fit, 264px);
     padding: 0 0 88px 0;
-    gap: 16px;
   }
 }
 
@@ -30,8 +28,6 @@
   .photo-grid {
     grid-template-columns: repeat(auto-fit, 266px);
     grid-template-rows: repeat(auto-fit, 200px);
-    padding: 0 0 88px 0;
-    gap: 16px;
   }
 }
 

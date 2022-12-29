@@ -6,12 +6,6 @@
   justify-content: space-between;
 }
 
-@media (max-width: 1024px) {
-  .footer {
-    padding: 92px 48px 24px 48px;
-  }
-}
-
 @media (max-width: 768px) {
   .footer {
     padding: 88px 24px 24px 24px;
